@@ -1,0 +1,19 @@
+.fom {
+    padding: 0.8em;
+    width: 30%;
+    margin: 1em;
+    font-size: 1em;
+    background-color: aquamarine;
+}
+
+.tex {
+    margin: 1em;
+    font-size: 2em;
+    background-color: aquamarine;
+}
+
+.pre {
+    padding: 1em;
+    font-size: 1em;
+    background-color: aquamarine;
+}
